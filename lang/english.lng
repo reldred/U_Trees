@@ -1,5 +1,5 @@
 ##grflangid 0x01
-STR_GRF_NAME_TREE						:U&Trees v2
+STR_GRF_NAME_TREE						:U&Trees v2 reMOD
 STR_GRF_DESCRIPTION_TREE				:A graphics replacement set for trees. Only temperate and subarctic climates.{}{YELLOW}U&Trees{}{}{BLACK}Requires version 1.10.0 {BLACK}or later{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby™{}{BLACK}License: {SILVER}GPL v2{}
 STR_GRF_URL						    	:https://www.tt-forums.net/viewtopic.php?f=67&t=84591
 
@@ -10,3 +10,9 @@ STR_PARAM_TREES_DESC					:
 
 STR_PARAM_TREES_0						:with noise
 STR_PARAM_TREES_1						:no noise
+
+STR_PARAM_TEMPERATE_NAME				:Replace Temperate trees
+STR_PARAM_TEMPERATE_DESC				:
+
+STR_PARAM_ARCTIC_NAME					:Replace Arctic trees
+STR_PARAM_ARCTIC_DESC					:
