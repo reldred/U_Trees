@@ -1,7 +1,7 @@
 ##grflangid 0x01
 STR_GRF_NAME_TREE						:U&Trees v2 reMOD
 STR_GRF_DESCRIPTION_TREE				:A graphics replacement set for trees. Covers Temperate, Arctic, and now Tropic climates.{}{YELLOW}U&Trees{}{}{BLACK}Requires version 1.10.0 {BLACK}or later{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby™{}{BLACK}License: {SILVER}GPL v2{}.{BLACK} Additional modifications by reldred, tropic climate additions are intended for an american west or otherwise less sandy desert styled landscape setup using my fork of Chujo's Desert as Objects set to Alpine Grass as desert.
-STR_GRF_URL						    	:https://github.com/reldred/U_Trees/tree/reMOD
+STR_GRF_URL						    	:https://github.com/reldred/U_Trees/
 
 STR_OPENTTD_VERSION						:1.10.0
 
