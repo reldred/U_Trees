@@ -184,6 +184,81 @@ if (param_trees == 0) {
 			tmpl_trees(0,1190)
 		}
 	}
+//******************************* TROPIC ********************************************************
+	if (param_tropic == 1) {
+		// Tree 1
+		replace (1835, "gfx/trees.png") {
+			tmpl_trees(336,280)
+		}
+		// Tree 2
+		replace (1842, "gfx/trees.png") {
+			tmpl_trees(336,140)
+		}
+		// Tree 3
+		replace (1863, "gfx/trees.png") {
+			tmpl_trees(0,700)
+		}
+		// Tree 4
+		replace (1870, "gfx/trees.png") {
+			tmpl_trees(336,490)
+		}
+		// Tree 5
+		replace (1898, "gfx/trees.png") {
+			tmpl_trees(336,350)
+		}
+		// Tree 6
+		replace (1933, "gfx/trees.png") {
+			tmpl_trees(0,350)
+		}
+		// Tree 7
+		replace (1926, "gfx/trees.png") {
+			tmpl_trees(0,280)
+		}
+		// Tree 8
+		replace (1912, "gfx/trees.png") {
+			tmpl_trees(0,420)
+		}
+		// Tree 8.5
+		replace (1919, "gfx/trees.png") {
+			tmpl_trees(0,910)
+		}
+		// Tree 9
+		replace (1884, "gfx/trees.png") {
+			tmpl_trees(0,0)
+		}
+		// Tree 10
+		replace (1905, "gfx/trees.png") {
+			tmpl_trees(336,840)
+		}
+		// Tree 11
+		replace (1821, "gfx/trees.png") {
+			tmpl_trees(0,840)
+		}
+		// Tree 12
+		replace (1940, "gfx/trees.png") {
+			tmpl_trees(336,630)
+		}
+		// Mystery Tropic Tree
+		replace (1828, "gfx/trees.png") {
+			tmpl_trees(336,0)
+		}
+		// Mystery Tropic Tree
+		replace (1891, "gfx/trees.png") {
+			tmpl_trees(0,770)
+		}
+		// Mystery Rainforest Tree
+		replace (1856, "gfx/trees.png") {
+			tmpl_trees(0,700)
+		}
+		// Mystery Rainforest Tree
+		replace (1849, "gfx/trees.png") {
+			tmpl_trees(0,560)
+		}
+		// Mystery Rainforest Tree (Fruit?)
+		replace (1877, "gfx/trees.png") {
+			tmpl_trees(0,630)
+		}
+	}
 }
 //==================================================================================================================================
 //								SPRITES TREES NO NOISE
@@ -299,6 +374,81 @@ if (param_trees == 1) {
 		}
 		replace (1814, "gfx/trees_no_noise.png") {
 			tmpl_trees(0,1190)
+		}
+	}
+	//******************************* TROPIC ********************************************************
+	if (param_tropic == 1) {
+		// Tree 1
+		replace (1835, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,280)
+		}
+		// Tree 2
+		replace (1842, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,140)
+		}
+		// Tree 3
+		replace (1863, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,700)
+		}
+		// Tree 4
+		replace (1870, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,490)
+		}
+		// Tree 5
+		replace (1898, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,350)
+		}
+		// Tree 6
+		replace (1933, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,350)
+		}
+		// Tree 7
+		replace (1926, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,280)
+		}
+		// Tree 8
+		replace (1912, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,420)
+		}
+		// Tree 8.5
+		replace (1919, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,910)
+		}
+		// Tree 9
+		replace (1884, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,0)
+		}
+		// Tree 10
+		replace (1905, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,840)
+		}
+		// Tree 11
+		replace (1821, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,840)
+		}
+		// Tree 12
+		replace (1940, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,630)
+		}
+		// Mystery Tropic Tree
+		replace (1828, "gfx/trees_no_noise.png") {
+			tmpl_trees(336,0)
+		}
+		// Mystery Tropic Tree
+		replace (1891, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,770)
+		}
+		// Mystery Rainforest Tree
+		replace (1856, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,700)
+		}
+		// Mystery Rainforest Tree
+		replace (1849, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,560)
+		}
+		// Mystery Rainforest Tree (Fruit?)
+		replace (1877, "gfx/trees_no_noise.png") {
+			tmpl_trees(0,630)
 		}
 	}
 }
