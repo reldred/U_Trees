@@ -35,6 +35,14 @@ grf {
 			def_value: 1;
 		}
 	}
+	param 3 {
+		param_tropic {
+			type: bool;
+			name: string(STR_PARAM_TROPIC_NAME);
+			desc: string(STR_PARAM_TROPIC_DESC);
+			def_value: 1;
+		}
+	}
 }
 if (ttd_platform != PLATFORM_OPENTTD || (openttd_version < version_openttd(1, 10, 0, 0))) {
 		error(FATAL, REQUIRES_OPENTTD, string(STR_OPENTTD_VERSION));

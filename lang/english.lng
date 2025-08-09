@@ -1,18 +1,21 @@
 ##grflangid 0x01
 STR_GRF_NAME_TREE						:U&Trees v2 reMOD
-STR_GRF_DESCRIPTION_TREE				:A graphics replacement set for trees. Only temperate and subarctic climates.{}{YELLOW}U&Trees{}{}{BLACK}Requires version 1.10.0 {BLACK}or later{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby™{}{BLACK}License: {SILVER}GPL v2{}
-STR_GRF_URL						    	:https://www.tt-forums.net/viewtopic.php?f=67&t=84591
+STR_GRF_DESCRIPTION_TREE				:A graphics replacement set for trees. Covers Temperate, Arctic, and now Tropic climates.{}{YELLOW}U&Trees{}{}{BLACK}Requires version 1.10.0 {BLACK}or later{}{}©2020 Yuri Gashin{}Draw or coded by {LTBLUE}Ufiby™{}{BLACK}License: {SILVER}GPL v2{}. Additional modifications by reldred.
+STR_GRF_URL						    	:https://github.com/reldred/U_Trees/tree/reMOD
 
 STR_OPENTTD_VERSION						:1.10.0
 
 STR_PARAM_TREES_NAME					:Adjusting the rendering of trees
-STR_PARAM_TREES_DESC					:
+STR_PARAM_TREES_DESC					:Adjusts the rendering of trees between two styles, a more painterly style without pixel noise, and a more pixelated style.
 
-STR_PARAM_TREES_0						:with noise
-STR_PARAM_TREES_1						:no noise
+STR_PARAM_TREES_0						:With Noise
+STR_PARAM_TREES_1						:Without Noise
 
 STR_PARAM_TEMPERATE_NAME				:Replace Temperate trees
-STR_PARAM_TEMPERATE_DESC				:
+STR_PARAM_TEMPERATE_DESC				:Toggle the replacement of Temperate climate trees.
 
 STR_PARAM_ARCTIC_NAME					:Replace Arctic trees
-STR_PARAM_ARCTIC_DESC					:
+STR_PARAM_ARCTIC_DESC					:Toggle the replacement of Arctic climate trees.
+
+STR_PARAM_ARCTIC_NAME					:Replace Arctic trees
+STR_PARAM_ARCTIC_DESC					:Toggle the replacement of Tropic climate trees.
