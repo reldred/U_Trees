@@ -17,5 +17,5 @@ STR_PARAM_TEMPERATE_DESC				:Toggle the replacement of Temperate climate trees.
 STR_PARAM_ARCTIC_NAME					:Replace Arctic trees
 STR_PARAM_ARCTIC_DESC					:Toggle the replacement of Arctic climate trees.
 
-STR_PARAM_ARCTIC_NAME					:Replace Arctic trees
-STR_PARAM_ARCTIC_DESC					:Toggle the replacement of Tropic climate trees.
+STR_PARAM_TROPIC_NAME					:Replace Arctic trees
+STR_PARAM_TROPIC_DESC					:Toggle the replacement of Tropic climate trees.
